@@ -6,7 +6,7 @@ Source:
 https://data.nasdaq.com/data/FRED/NROUST-natural-rate-of-unemployment-shortterm
 Federal Reserve Economic Data
 
-Tugas 1
+[Tugas 1]
 Johan Akira Fatahillah / A11.2018.10897
 
 • Buat akun pada Repositori github (Panduan Cek di Kulino)
@@ -19,6 +19,6 @@ Johan Akira Fatahillah / A11.2018.10897
 Dataset ini nantinya bisa digunakan sebagai latihan preprocessing pada pertemuan berikutnya (Minggu ke-3), dan akan ada penunjukan sampling untuk mempresentasikan hasil Analisa data pada perkuliahan synchronous via google meet pada Perkuliahan Minggu ke-3.
 
 [ANALISA]
-Dalam dataset ini terdapat dua atribut/field berupa
+Dalam dataset ini terdapat dua atribut/field berupa;
 • Date
 • Value
